@@ -10,9 +10,9 @@ function newTask(title, description) {
 const task1 = newTask("Cleaning", "Washing Dishes");
 const task2 = newTask("Laundry", "Do Laundry Colored Clothes");
 const task3 = newTask("Study", "Start New Project");
-const tasks = [task1, task2, task3]
+const tasks = [task1, task2, task3];
 
-console.log(tasks)
+console.log(tasks);
 // [
   // { title: 'Cleaning', description: 'Washing Dishes', complete: false },
   // {
