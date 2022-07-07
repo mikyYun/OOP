@@ -5,6 +5,10 @@ Create this repo to practice OOP in JavaScript
 ### What is OOP <br />
 Object Orientation(OO) <br />
 : Some of popular languages today like Ruby, Java, and C# have been designed maily for OOP (OO Languages)
+
+### Primary goal of OO
+- Reduce duplicated code (reusability)
+- Breaking code up into sensiblu-divided units (modularity)
 #### OO Languages
 - C++
 - C#
